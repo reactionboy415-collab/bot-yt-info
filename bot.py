@@ -7,7 +7,7 @@ from threading import Thread
 
 # --- AUTHENTICATION & CONFIGURATION ---
 # Using the token provided by the user
-BOT_TOKEN = "8163888185:AAHqjYUWUJJDUC5kcZlXEjsgSyIvD8aK4xA"
+BOT_TOKEN = "8163888185:AAGPXuJJ__xGZUqZkCFVp43cSmU0s900Dmo"
 API_ENDPOINT = "https://yt-data-api.onrender.com/api/fetch"
 
 bot = telebot.TeleBot(BOT_TOKEN)
